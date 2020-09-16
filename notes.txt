@@ -1,0 +1,19 @@
+
+1) XPath Tutorial
+.left:nth-of-type(4) ~ a {
+    color: burlywood;
+
+    2) SQL exer
+    #main > h2:nth-of-type(2) {
+        color: darkblue;
+    }
+    #topnavbtn_tutorials
+
+    3)https://www.w3schools.com/cert/default.asp    even or odd nor 2n or 2n+1
+     .w3-col.m4.w3-margin-bottom:nth-of-type(2n+1) {
+           background-color: aqua;
+       }
+
+       4).w3-bar-block > a:nth-of-type(4n+3) {
+             color: red !important;
+         }
